@@ -1,0 +1,12 @@
+[package]
+name = "p04b_textures"
+version = "0.1.0"
+edition = "2021"
+
+[profile.dev]
+incremental = true
+codegen-units = 16
+opt-level=1
+
+[dependencies]
+bevy = {version = "=0.15.0", features = ["shader_format_glsl"]} 

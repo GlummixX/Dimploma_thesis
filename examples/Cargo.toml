@@ -1,0 +1,9 @@
+[workspace]
+    members = [
+        "p00_window", "p01_basic_triangle", "p02_uniform_buffer", "p03_geometry", "p04_textures", "p04b_textures", "p05_camera", "p06_obj",
+        "p08_light", "p10a_compute_shader", "p10b_compute_shader",
+        "p12_multiple_shaders", "p13_post_processing",
+        "b01_camera_plugin", "b02_ecs_inspector", "b03_performance_test",
+        "testing",
+    ]
+    target-dir = "target"

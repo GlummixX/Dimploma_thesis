@@ -1,0 +1,9 @@
+[package]
+name = "p10b_compute_shader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = {version = "=0.15.0", features = ["shader_format_glsl"]} 
+bytemuck = "1.22.0"
+rand = "0.9.1"

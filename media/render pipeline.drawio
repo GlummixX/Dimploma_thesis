@@ -1,0 +1,164 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="fWaPZfOddBXxMkI1cfeh">
+    <mxGraphModel dx="1018" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-1" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-8" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-29" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-30" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-31" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-32" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-39" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-40" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-42" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-43" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-45" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-46" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-48" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-49" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-53" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-54" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-56" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-57" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-59" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-60" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-62" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-63" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-65" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-66" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-68" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="220" as="sourcePoint" />
+            <mxPoint x="810" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-89" value="čas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="WF17EL3g5eBBzX_0TRWD-68">
+          <mxGeometry x="0.2159" y="-2" relative="1" as="geometry">
+            <mxPoint x="-83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-69" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="360" as="sourcePoint" />
+            <mxPoint x="810" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-90" value="čas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="WF17EL3g5eBBzX_0TRWD-69">
+          <mxGeometry x="0.0038" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-78" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-79" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-80" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-81" value="Hlavní svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-82" value="Renderovací svět" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="670" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-85" value="Extrakce dat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-86" value="Zakázaný pipelining" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-87" value="Povolený pipelining, omezeno renderem" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WF17EL3g5eBBzX_0TRWD-88" value="Povolený pipelining, omezeno simulací" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

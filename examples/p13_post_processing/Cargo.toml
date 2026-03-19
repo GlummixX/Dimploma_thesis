@@ -1,0 +1,8 @@
+[package]
+name = "p13_post_processing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15.0"
+camera_plugin = { path = "../b01_camera_plugin" }

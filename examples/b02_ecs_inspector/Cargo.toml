@@ -1,0 +1,9 @@
+[package]
+name = "b02_ecs_inspector"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15.0"
+bevy-inspector-egui = "0.30.0"
+rand = "0.8.5"

@@ -1,0 +1,8 @@
+[package]
+name = "p02_uniform_buffer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15.0"
+bevy_egui = "0.31.1"

@@ -1,0 +1,7 @@
+[package]
+name = "p12_multiple_shaders"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15.0"
